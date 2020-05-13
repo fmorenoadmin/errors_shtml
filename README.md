@@ -43,7 +43,7 @@ POR
 	
 </Directory>
 
-4.- Crear un archivo llamado #default dentro de /etc/apache2/sits-avalible/
+4.- Crear un archivo llamado #default dentro de /etc/apache2/sites-avalible/
 E ingresar lo siguiente.
 
 <Directory /var/www/html/>
