@@ -26,10 +26,9 @@ junto con el archivo .htacceess.
 3.- Abrir y reemplazar:
 
 <Directory /var/www/>
-	Options Indexes FollowSymLinks
-	
-	AllowOverride none
-	
+
+	Options Indexes FollowSymLinks	
+	AllowOverride none	
 	Require all granted
 	
 </Directory>
@@ -37,10 +36,9 @@ junto con el archivo .htacceess.
 POR
 
 <Directory /var/www/>
-	Options Indexes FollowSymLinks
-	
-	AllowOverride All
-	
+
+	Options Indexes FollowSymLinks	
+	AllowOverride All	
 	Require all granted
 	
 </Directory>
@@ -49,12 +47,10 @@ POR
 E ingresar lo siguiente.
 
 <Directory /var/www/html/>
-	Options Indexes FollowSymLinks Multiviews
-	
-	AllowOverride All
-	
-	Order allow,deny
-	
+
+	Options Indexes FollowSymLinks Multiviews	
+	AllowOverride All	
+	Order allow,deny	
 	allow from all
 	
 </Directory>
