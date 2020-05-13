@@ -27,16 +27,22 @@ junto con el archivo .htacceess.
 
 <Directory /var/www/>
 	Options Indexes FollowSymLinks
+	
 	AllowOverride none
+	
 	Require all granted
+	
 </Directory>
 
 POR
 
 <Directory /var/www/>
 	Options Indexes FollowSymLinks
+	
 	AllowOverride All
+	
 	Require all granted
+	
 </Directory>
 
 4.- Crear un archivo llamado #default dentro de /etc/apache2/sits-avalible/
@@ -44,7 +50,11 @@ E ingresar lo siguiente.
 
 <Directory /var/www/html/>
 	Options Indexes FollowSymLinks Multiviews
+	
 	AllowOverride All
+	
 	Order allow,deny
+	
 	allow from all
+	
 </Directory>
