@@ -31,7 +31,7 @@ junto con el archivo .htacceess.
 	AllowOverride none	
 	Require all granted
 	
-</Directory>
+#</Directory>
 
 POR
 
@@ -41,7 +41,7 @@ POR
 	AllowOverride All	
 	Require all granted
 	
-</Directory>
+#</Directory>
 
 4.- Crear un archivo llamado #default dentro de /etc/apache2/sits-avalible/
 E ingresar lo siguiente.
@@ -53,4 +53,4 @@ E ingresar lo siguiente.
 	Order allow,deny	
 	allow from all
 	
-</Directory>
+#</Directory>
