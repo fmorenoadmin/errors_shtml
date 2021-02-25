@@ -1,7 +1,7 @@
 ![FMoreno Logo](https://frankmorenoalburqueque.com/images/logo.png)
 
 # errors_shtml
-Páginas de Error Personalizadas. Pra que uses en tu Página Web
+Páginas de Error Personalizadas. Para que uses en tu Página Web
 
 Saludos cordiales,
 
