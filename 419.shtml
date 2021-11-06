@@ -20,10 +20,10 @@
     <div id="notfound">
         <div class="notfound">
             <div class="notfound-404">
-                <h3>El Captcha es Inválido</h3>
+                <h3>El Captcha</h3>
                 <h1><span>4</span><span>1</span><span>9</span></h1>
             </div>
-            <h2><br><hr><br></h2>
+            <h2>Es Inválido<hr><br></h2>
             <p>
                 <a href="mailto:admin@frankmorenoalburqueque.com" target="_blank" class="btn btn-success">
                     <i class="fa fa-envelope-o"></i> Contactar al Administrador <i class="fa fa-envelope-o"></i>
