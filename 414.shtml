@@ -8,7 +8,6 @@
     <!-- Google font -->
     <link href="https://fonts.googleapis.com/css?family=Cabin:400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:900" rel="stylesheet">
-    <link rel="stylesheet" href="https://frankmorenoalburqueque.com/css/font-awesome.min.css">
     <script type="text/javascript" src="https://kit.fontawesome.com/3492479f55.js"></script>
     <script type="text/javascript" src="https://frankmorenoalburqueque.com/plugins/ckeditor/ckeditor.js"></script>
     <!-- Custom stlylesheet -->
@@ -27,7 +26,7 @@
             <h2>demasiado largo<hr><br></h2>
             <p>
                 <a href="mailto:admin@frankmorenoalburqueque.com" target="_blank" class="btn btn-success">
-                    <i class="fa fa-envelope-o"></i> Contactar al Administraor <i class="fa fa-envelope-o"></i>
+                    <i class="fa fa-envelope-o"></i> Contactar al Administrador <i class="fa fa-envelope-o"></i>
                 </a>
             </p>
         </div>
