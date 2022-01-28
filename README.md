@@ -1,14 +1,26 @@
-![FMoreno Logo](https://frankmorenoalburqueque.com/images/logo.png)
+<p align="center">
+  <img src="https://frankmorenoalburqueque.com/images/ico490x458.png" height="320px" title="Icono">
+</p>
 
-# errors_shtml
-Páginas de Error Personalizadas. Para que uses en tu Página Web
+[![Canal de GitHub](https://img.shields.io/badge/Canal-GitHub-black)](https://github.com/fmorenoadmin)
+[![Sígueme en Twitter](https://img.shields.io/twitter/follow/sendgrid.svg?style=social&label=Sígueme)](https://twitter.com/FrankMartinMor1)
+[![Sígueme en Facebook](https://img.shields.io/badge/Sígueme-@FrankMartinMA-blue)](https://facebook.com/FrankMartinMA)
+[![Sígueme en Facebook](https://img.shields.io/badge/Sígueme-@frankmartinmoreno-ff69b4)](https://instagram.com/frankmartinmoreno)
+[![Escríbeme en Facebook](https://img.shields.io/badge/Escríbeme-@FrankMartinMA-blue)](https://m.me/FrankMartinMA)
+[![Escríbeme en WhatsApp](https://img.shields.io/badge/Escríbeme-WhathApp-green)](https://wa.me/51924741703)
+[![Mi Web](https://img.shields.io/badge/Mi_Página-Web-blueviolet)](https://frankmorenoalburqueque.com)
 
-Saludos cordiales,
+## errors_shtml
+<p>
+	Páginas de Error Personalizadas. Para que uses en tu Página Web
+	<br>
+	Saludos cordiales,
+	<br>
+	La presente es para poderles hacer llegar
+	Páginas de Errores personalizadas para su página Web.
+</p>
 
-La presente es para poderles hacer llegar
-Páginas de Errores personalizadas para su página Web.
-
-Pasos de instalación:
+### Pasos de instalación:
 
 --------LOCAL-WAMPP-XAMPP-HOSTING-------
 
@@ -56,3 +68,12 @@ E ingresar lo siguiente.
 	allow from all
 	
 </Directory>
+
+<p align="center">
+	<label>Moreno Alburqueque Frank Martin</label><br>
+	<label>WebMaster - Programador Web PHP</label><br>
+	<label><a href="mailto:admin@frankmorenoalburqueque.com">admin@frankmorenoalburqueque.com</a></label><br>
+	<label><a href="https://frankmorenoalburqueque.com" target="_blank">https://frankmorenoalburqueque.com</a></label><br>
+	<label><a href="tel:924741703">+51 924 741 703</a></label><br>
+  <img src="https://frankmorenoalburqueque.com/images/logo480x240.png" width="auto" title="Logo">
+</p>
