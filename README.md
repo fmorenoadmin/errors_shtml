@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.frankmorenoalburqueque.com/images/ico490x458.png" height="320px" title="Icono">
+	<img src="https://www.frankmorenoalburqueque.com/images/ico490x458.png" height="320px" title="Icono">
 </p>
 
 [![Canal de GitHub](https://img.shields.io/badge/Canal-GitHub-black)](https://github.com/fmorenoadmin)
@@ -75,5 +75,5 @@ E ingresar lo siguiente.
 	<label><a href="mailto:admin@frankmorenoalburqueque.com">admin@frankmorenoalburqueque.com</a></label><br>
 	<label><a href="https://frankmorenoalburqueque.com" target="_blank">https://frankmorenoalburqueque.com</a></label><br>
 	<label><a href="tel:924741703">+51 924 741 703</a></label><br>
-  <img src="https://www.frankmorenoalburqueque.com/images/logo480x240.png" width="auto" title="Logo">
+	<img src="https://www.frankmorenoalburqueque.com/images/logo480x240.png" width="auto" title="Logo">
 </p>
