@@ -72,7 +72,7 @@ E ingresar lo siguiente.
 <p align="center">
 	<label>Moreno Alburqueque Frank Martin</label><br>
 	<label>WebMaster - Programador Web PHP</label><br>
-	<label><a href="mailto:admin@frankmorenoalburqueque.com">admin@frankmorenoalburqueque.com</a></label><br>
+	<label><a href="mailto:admin@fmorenoadmin.com.pe">admin@fmorenoadmin.com.pe</a></label><br>
 	<label><a href="https://frankmorenoalburqueque.com" target="_blank">https://frankmorenoalburqueque.com</a></label><br>
 	<label><a href="tel:924741703">+51 924 741 703</a></label><br>
 	<img src="https://archivos.sistemasongoku.com/fmoreno_7X7KyN5phPGy/imagenes/logo480x240.png" width="auto" title="Logo">
